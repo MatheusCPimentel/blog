@@ -8,7 +8,7 @@ export const PostsHeader: React.FC = () => {
     <div className="bg-emerald-50 rounded-lg p-6 mb-6">
       <div className="flex items-center space-x-3 mb-2">
         <div className="p-2 bg-emerald-600 text-white rounded-lg">
-          <BookOpen className="p-2 bg-emerald-600 text-white rounded-lg h-6 w-6" />
+          <BookOpen className="h-6 w-6" />
         </div>
 
         <h2 className="text-xl font-bold text-gray-900">Posts</h2>
