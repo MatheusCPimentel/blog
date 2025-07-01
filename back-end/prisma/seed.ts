@@ -56,8 +56,10 @@ Use modern ES6+ features like arrow functions, destructuring, and modules to wri
   ];
 
   for (const postData of posts) {
-    await prisma.post.create({
-      data: postData,
+    await prisma.post.upsert({
+      where: { slug: postData.slug },
+      update: postData,
+      create: postData,
     });
   }
 
