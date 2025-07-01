@@ -45,3 +45,4 @@ coverage/
 # Prisma
 # Keep prisma/migrations but ignore client
 prisma/migrations/migration_lock.toml 
+prisma/dev.db
