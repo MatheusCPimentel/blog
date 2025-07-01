@@ -2,6 +2,16 @@
 
 A full-stack blog application built with modern web technologies. This project consists of a React/Next.js frontend and a Node.js/Express backend with SQLite database.
 
+## 📸 Screenshots
+
+| Desktop 01                                                     | Desktop 02                                                         |
+| -------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ![Desktop 01](./front-end/public/screenshots/desktop-main.png) | ![Desktop 02](./front-end/public/screenshots/desktop-creating.png) |
+
+| Mobile 01                                                    | Mobile 02                                                        |
+| ------------------------------------------------------------ | ---------------------------------------------------------------- |
+| ![Mobile 01](./front-end/public/screenshots/mobile-main.png) | ![Mobile 02](./front-end/public/screenshots/mobile-creating.png) |
+
 ## 🚀 Technologies Used
 
 ### Frontend
